@@ -1,4 +1,4 @@
-# 📊 FX Deals Ingestion Service
+# 📊 ClusteredData Warehouse Service
 
 A Spring Boot application for ingesting, validating, and persisting FX deal records into a PostgreSQL database.  
 Developed as part of a Scrum workflow for loading FX deal data into a data warehouse.
