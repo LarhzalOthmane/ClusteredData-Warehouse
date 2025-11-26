@@ -1,0 +1,5 @@
+Deal Unique Id,From Currency,To Currency,Deal timestamp,Deal Amount
+deal-001,USD,EUR,2025-11-23T09:05:00Z,100000.50
+deal-002,GBP,USD,2025-11-23T10:00:00Z,250000
+deal-003,EUR,JPY,invalid-timestamp,50000
+deal-001,USD,EUR,2025-11-23T09:05:00Z,100000.50
